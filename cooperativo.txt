@@ -3,8 +3,7 @@ Iniciando la coperacion
 
 
 
-<<<<<<< HEAD
+
 Mas
-=======
 Hacia
->>>>>>> 84df298659c755831ca17f543c5497ae51e12e5b
+
